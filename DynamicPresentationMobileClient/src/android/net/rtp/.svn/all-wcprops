@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DynamicPresentation/!svn/ver/91/MobileClient/src/android/net/rtp
+END
+AudioCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DynamicPresentation/!svn/ver/91/MobileClient/src/android/net/rtp/AudioCodec.java
+END
+RtpStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DynamicPresentation/!svn/ver/91/MobileClient/src/android/net/rtp/RtpStream.java
+END
+AudioGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DynamicPresentation/!svn/ver/91/MobileClient/src/android/net/rtp/AudioGroup.java
+END
+AudioStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DynamicPresentation/!svn/ver/91/MobileClient/src/android/net/rtp/AudioStream.java
+END

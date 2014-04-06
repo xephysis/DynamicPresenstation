@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DynamicPresentation/!svn/ver/169/PCClient/src/net/sourceforge/peers/media
+END
+UlawStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DynamicPresentation/!svn/ver/91/PCClient/src/net/sourceforge/peers/media/UlawStream.java
+END
+IncomingRtpReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DynamicPresentation/!svn/ver/92/PCClient/src/net/sourceforge/peers/media/IncomingRtpReader.java
+END
+AudioUlawEncodeDecode02.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DynamicPresentation/!svn/ver/91/PCClient/src/net/sourceforge/peers/media/AudioUlawEncodeDecode02.java
+END
